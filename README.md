@@ -33,3 +33,8 @@ The project follows the **Medallion Architecture** to ensure data quality and re
 
 ## 📈 Results
 The final output is a **Master Procurement Plan** that identifies which specific items to buy to achieve maximum risk reduction within a limited capital budget.
+
+* **Constraint Handling:** Successfully implemented logic to handle budget infeasibility by prioritizing critical Category A items, ensuring 100% availability of high-value stock within fixed capital limits.
+
+### Final Optimized Procurement Plan Output:
+![Screenshot of final SQL output table showing optimized quantities and spend](images/final_procurement_results.png)
